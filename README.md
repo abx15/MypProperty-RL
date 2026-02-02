@@ -1,4 +1,4 @@
-# 🏠 MyProperty - Real Estate Management System
+# 🏠️ MyProperty - Real Estate Management System
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Node.js Version](https://img.shields.io/badge/node-%3E%3D20.0.0-brightgreen)](https://nodejs.org/)
@@ -6,6 +6,12 @@
 [![Laravel Version](https://img.shields.io/badge/laravel-12.x-red)](https://laravel.com/)
 [![React Version](https://img.shields.io/badge/react-19.x-blue)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/typescript-5.x-blue)](https://www.typescriptlang.org/)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/your-username/myproperty)](https://github.com/your-username/myproperty/actions)
+[![Coverage](https://img.shields.io/codecov/c/github/your-username/myproperty)](https://codecov.io/gh/your-username/myproperty)
+[![Last Commit](https://img.shields.io/github/last-commit/your-username/myproperty)](https://github.com/your-username/myproperty/commits)
+[![Issues](https://img.shields.io/github/issues/your-username/myproperty)](https://github.com/your-username/myproperty/issues)
+[![Pull Requests](https://img.shields.io/github/issues-pr/your-username/myproperty)](https://github.com/your-username/myproperty/pulls)
+[![Sponsors](https://img.shields.io/github/sponsors/your-username/myproperty)](https://github.com/sponsors/your-username/myproperty)
 
 A modern, full-stack Real Estate Property Management System built with Laravel 12 (Backend) and React 19 + TypeScript (Frontend). This platform enables property agents to manage listings, users to browse and inquire about properties, and administrators to oversee the entire ecosystem with AI-powered insights.
 

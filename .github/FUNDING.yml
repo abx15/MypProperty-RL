@@ -1,0 +1,32 @@
+# GitHub Sponsors Configuration
+
+# These settings control the GitHub Sponsors feature for your repository.
+# For more information, see https://docs.github.com/sponsors
+
+# Set to true to enable GitHub Sponsors
+# Set to false to disable GitHub Sponsors
+github_sponsors: true
+
+# Set to true to enable GitHub Sponsors tier badges
+github_sponsors_tiers: true
+
+# Set to true to enable GitHub Sponsors avatar
+github_sponsors_avatar: true
+
+# Set to true to enable GitHub Sponsors link
+github_sponsors_link: true
+
+# Set to true to enable GitHub Sponsors description
+github_sponsors_description: true
+
+# Set to true to enable GitHub Sponsors goal
+github_sponsors_goal: true
+
+# Set to true to enable GitHub Sponsors custom message
+github_sponsors_custom_message: true
+
+# Set to true to enable GitHub Sponsors custom content
+github_sponsors_custom_content: true
+
+# Set to true to enable GitHub Sponsors custom footer
+github_sponsors_custom_footer: true
